@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/dotnet-buildtools/prereqs:alpine-3.20-amd64
+FROM mcr.microsoft.com/dotnet-buildtools/prereqs:alpine-3.20-amd64@sha256:1b1ddbe3b945581e799374512358d2295850adbe403682c114ace46c3fab473f
